@@ -1,5 +1,5 @@
 # Olá! Eu sou a Natália Vitória Amaral do Val
-![Visualizações do Perfil](https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&color=blue&style=flat-square&label=Visualizações+do+Perfil)
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=nataliavitoriaamaral&color=blue&style=flat-square&label=Visualizações+do+Perfil)
 
 Sou estudante do 5º período do Bacharelado em Ciência e Tecnologia, com trajetória para **Ciência da Computação** na Universidade Federal de São Paulo (UNIFESP) - São José dos Campos. Estou aprofundando meus conhecimentos em análise de dados e tenho grande interesse nas áreas de Inteligência Artificial e Machine Learning. Tenho rápido aprendizado e busco aplicar tecnologia para resolver desafios complexos de negócios, gerando inovação e impacto social.
 
